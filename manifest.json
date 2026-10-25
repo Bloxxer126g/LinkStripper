@@ -1,0 +1,11 @@
+{
+  "description": "Strip the unneccasery junk off links from various websites! Make links very readable and nicer to share.",
+  "manifest_version": 3,
+  "name": "LinkStripper",
+  "version": "1.0",
+
+  "action": {
+    "default_title": "LinkStripper",
+    "default_popup": "popup.html"
+  }
+}
